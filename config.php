@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCIEear-7k3mC02v2xr0o6dx34U92ZP7YE');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('SITE_NAME', 'sealtube');
+define('TITLENAME', 'sealtube');
+define('EN2DEKEY', '52YouTube1314');
+define('EMAIL', '2300992@qq.com');
+define('NAME', 'root');
+define('PASSWORD', 'root');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
